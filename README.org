@@ -1,11 +1,10 @@
-* Personalities
-This is a free and open-source (FOSS) curation of personalities that can be
-used as chatbots.
+* Tomes
+This is a free and open-source (FOSS) curation of book descriptions that can generate books.
 
 | License | Discord server invite         |
 |---------+-------------------------------|
 | =GPL-3= | https://discord.gg/JwKGbAdNHR |
 
-See the =personalities= repo for detailed documentation.
+See the =tomes= repo for detailed documentation.
 
-http://github.com/semiosis/personalities
+http://github.com/semiosis/tomes
